@@ -2,9 +2,9 @@
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="200" />
 </p>
 <h1 align="center">Hi 👋, I'm Shwethaka Nirman</h1>
-<h3 align="center">IT student | A passionate frontend developer and UI/UX Designer from Sri Lanka</h3>
+<h3 align="center">IT student | A passionate frontend developer and backend developer and UI/UX Designer from Sri Lanka</h3>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=maheshiiiiiiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="maheshiiiiiiiiii" /> 
+  <img src="https://komarev.com/ghpvc/?username=shwethaka24&label=Profile%20views&color=0e75b6&style=flat" alt="shwethaka" />
 </p>
 <br>	
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="75px"></picture><h3> <b>About me: </b></h3>
