@@ -10,11 +10,11 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="75px"></picture><h3> <b>About me: </b></h3>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px"></picture>
 <br>
-- 🌱 I’m currently learning **Computer science and Cybersecurity**
-- 👯 I’m looking to collaborate on **Cybersecurity research**
-- 🤝 I’m looking for help with **Cyber-law research**
-- 👨‍💻 I'm undergraduate at **NIBM and NSBM**
-- 📫 How to reach me **pawanimaheshika2003@gmail.com**
+- 🌱 I’m currently learning software enginering and UI/UX Design
+- 👯 I’m looking to collaborate on **software research**
+- 🤝 I’m looking for help with **software Developing research**
+- 👨‍💻 I'm undergraduate at **University of sri jayawrdanapura**
+- 📫 How to reach me dmshwethaka@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/pawani-maheshika-bandara" target="blank">
