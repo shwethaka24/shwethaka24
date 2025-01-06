@@ -18,7 +18,7 @@
 </picture>
 <h3><b>About me:</b></h3>
 <picture>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px">
+ 
 </picture>
 
 <br>
